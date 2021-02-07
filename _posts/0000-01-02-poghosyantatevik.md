@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Second lesson at BT academy.
 Use the left arrow to go back!
